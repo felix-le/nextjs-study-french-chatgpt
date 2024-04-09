@@ -1,22 +1,31 @@
-# nextjs-study-french-chatgpt
+# Learning French with NextJS and ChatGPT
 
-## Description
+## What's This About?
 
-I have a lot of free time, then I decided to create a project with Next.js || React Native and ChatGPT to teach French.
-The project will have two parts:
+I've got plenty of free time, so I'm making a project to help people learn French. I'm using Next.js and ChatGPT for this. There are two parts to the project:
 
-- A website built with Next.js
-- A mobile app built with React Native
+- A website made with Next.js
+- An app for phones made with React Native
 
-### Website Features
+### What's on the Website?
 
-Summary: support for multiple languages, user authentication, and chatbot.
+The website helps people learn French in a few different ways:
 
-First: they will learn French with English.
-Second: they can record, listen, and compare their pronunciation with the native speaker. ChatGPT will help them with the pronunciation + suggestion to improve their pronunciation.
-Third: they can chat with the chatbot to practice their French.
+1. **Different Languages**: People can use the website in different languages.
+2. **Log In**: People can sign in to the website to get personalized help.
+3. **Talking to a Chatbot**: There's a little robot you can talk to. It helps you practice French.
 
-### Steps
+And here are some special things to help with learning:
 
-1. Search for design of website
-2. Create the website with Next.js
+- **Practice Activities**: You can practice speaking, listening, and writing in French, with help in English too.
+- **Getting Better at Speaking**: You can record yourself speaking and get feedback. The website even compares your speech to native speakers. The robot also gives tips to improve your pronunciation.
+- **Chatting with the Robot**: You can have conversations in French with the robot to practice.
+
+### How I'm Doing It
+
+Here's how I'm making this project happen:
+
+1. **Finding a Good Design**: First, I'll look for a nice design for the website.
+2. **Building the Website**: Then, I'll use Next.js to create the website. I'll add all the features we talked about.
+
+That's the plan! This project will make learning French fun and easy with NextJS and ChatGPT.
