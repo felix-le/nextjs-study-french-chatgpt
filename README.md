@@ -1,4 +1,4 @@
-# Learning French with NextJS and ChatGPT
+# Learning French conversation with NextJS and ChatGPT
 
 ## What's This About?
 
