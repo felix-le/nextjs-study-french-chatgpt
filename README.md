@@ -1,1 +1,1 @@
-# nextjs-study-grench-chatgpt
+# nextjs-study-french-chatgpt
